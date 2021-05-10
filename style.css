@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    font-family: 'Dancing Script',cursive;
+    background-color: aquamarine;
+    font-weight:900;
+}
+#family-images{
+    width:250px;
+    height:250px;
+}
